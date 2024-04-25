@@ -12,6 +12,6 @@ huggingface:
   embedding_hf_model_name: BAAI/bge-small-en-v1.5
 
 openai:
-  api_base: http://localhost:8000/v1
+  api_base: http://localhost:1234/v1
   api_key: EMPTY
-  model: facebook/opt-125m
+  model: dolphin-2.6-mistral-7b.Q6_K
